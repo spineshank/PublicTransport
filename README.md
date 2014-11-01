@@ -7,7 +7,9 @@ Currently this project is intended to be used on Israel Public Transport informa
 but later on,or in parallel can be used on other countries public Transport systems.
 
 The project should be integrated with 3 parts:
+
 1.DataBase Part:
+
 1.1. Generate a distributed database servers systems, that can be host by users.
 This database system will include only the User's related location based area data:
 This database will include Govermant Public Transport data.
@@ -27,6 +29,7 @@ Note: Meaning, for a specific Area, all the buses routes and bus load per time c
 better tools to design the system better.
 
 2.User interface Part:
+
 2.1: Apple application
 2.2: Android application
 
