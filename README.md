@@ -37,4 +37,12 @@ The application should have a 2 simple modes:
 2.3: Help direction to get to a specific location.
 2.4: Public transport data in my local location at time time Now.
 
+3. Online open Mapping system
+
+3.1 The system will allow users to update and generate a map information.
+3.2 Allow the users to review public transport information on top of map printout.
+
+
+
+
 
